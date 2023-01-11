@@ -1,2 +1,3 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Tue Jan 10 19:58:16 IST 2023","Tue Jan 10 19:58:26 IST 2023","10423","","My Login application","","My Login application","should login with valid credentials","should login with valid credentials",""
+"passed","Wed Jan 11 16:24:51 IST 2023","Wed Jan 11 16:24:52 IST 2023","662","","My Login application","","My Login application","passing username and password","passing username and password",""
+"passed","Wed Jan 11 16:24:48 IST 2023","Wed Jan 11 16:24:54 IST 2023","5565","","My Login application","","My Login application","should login with valid credentials","should login with valid credentials",""
