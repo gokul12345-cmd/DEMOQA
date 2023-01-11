@@ -11,6 +11,7 @@ describe('My Login application', () => {
     const password = await $("//input[@name='pw']").addValue("Qa@12345");
       //Login button clicking
     const loginBtn =await $("//input[@name='Login']").click();
+  
 
 
         //input[@name='username']
